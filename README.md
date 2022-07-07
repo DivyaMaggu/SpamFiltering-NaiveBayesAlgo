@@ -5,6 +5,7 @@ To predict whether a new mail based on its content, can be categorized into spam
 1. Loading the data 
 2. Basic Checks
 3. Text Preprocessing:
+
 Step-I: 
 Is to remove punctuation from the text/message/record:
 We just created a simple function to remove punctuation from a text:
